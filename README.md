@@ -1,11 +1,7 @@
 <div> 
 <p align="center">
- <img width="1920" height="1080" alt="Welcome! (3)" src="https://github.com/user-attachments/assets/0aaecb09-ded9-49ec-a7d9-f2c15a329ea8" />
+<img src="https://github.com/user-attachments/assets/6a868e3c-3ed2-403c-95b1-929e4f4864b9" alt="welcome" width="1000" />
 </p>
 </div> 
 
-<div>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c097b3ca-c295-4e7b-adb2-f318ef826bb1" alt="Gif- Camile" width="500" />
-</p>
-</div>
+
